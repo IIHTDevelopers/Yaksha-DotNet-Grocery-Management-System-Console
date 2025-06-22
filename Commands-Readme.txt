@@ -15,6 +15,6 @@
 
 * To run the test cases in CMD, Run the following command to test the application:
 
-	(GroceriesManagement.Tests /dotnet test --logger "console;verbosity=detailed")
+	(GroceriesManagement /dotnet test --logger "console;verbosity=detailed")
 
  (You can run this command multiple times to identify the test case status,and   refactor code  to make maximum test cases passed before final submission).
